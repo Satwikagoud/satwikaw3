@@ -1,1 +1,1 @@
-This is a sample text file created
+This is a sample text file updated in GitHub
